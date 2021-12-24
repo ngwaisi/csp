@@ -160,4 +160,6 @@
   font-size:14px;
   text-align:left;
 }
+._默认样式 {
+}
 textarea, select, input, button { outline: none; }
