@@ -8047,3 +8047,41 @@
   text-transform:none;
   visibility:hidden;
 }
+#u3370_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:109px;
+  height:63px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.349019607843137);
+  -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.349019607843137);
+  box-shadow:5px 5px 5px rgba(0, 0, 0, 0.349019607843137);
+  font-size:9px;
+}
+#u3370 {
+  border-width:0px;
+  position:absolute;
+  left:1776px;
+  top:541px;
+  width:109px;
+  height:63px;
+  display:flex;
+  font-size:9px;
+}
+#u3370 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u3370_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="378px" preserveAspectRatio="xMidYMin meet" viewBox="1588 1100  8 378" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 1560 1473.5  L 1587 1473.5  A 5 5 0 0 0 1592.5 1468 L 1592.5 1173  A 3 3 0 0 0 1595.5 1170 A 3 3 0 0 0 1592.5 1167 L 1592.5 1100  " stroke-width="1" stroke="#ff3399" fill="none" />
-  <path d="M 1562 1470.5  A 3 3 0 0 0 1559 1473.5 A 3 3 0 0 0 1562 1476.5 A 3 3 0 0 0 1565 1473.5 A 3 3 0 0 0 1562 1470.5 Z " fill-rule="nonzero" fill="#ff3399" stroke="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="141px" preserveAspectRatio="xMidYMin meet" viewBox="1588 1100  8 141" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 1588.49334665398 1235.90033288921  A 5 5 0 0 0 1592.5 1231 L 1592.5 1173  A 3 3 0 0 0 1595.5 1170 A 3 3 0 0 0 1592.5 1167 L 1592.5 1100  " stroke-width="1" stroke="#027db4" fill="none" />
+  <path d="M 1590.32321236698 1232.12667807455  A 3 3 0 0 0 1587.32321236698 1235.12667807455 A 3 3 0 0 0 1590.32321236698 1238.12667807455 A 3 3 0 0 0 1593.32321236698 1235.12667807455 A 3 3 0 0 0 1590.32321236698 1232.12667807455 Z " fill-rule="nonzero" fill="#027db4" stroke="none" />
 </svg>
