@@ -10,7 +10,11 @@
   line-height:normal;
   text-transform:none;
 }
+.shape {
+}
 .image {
+}
+.placeholder {
 }
 .primary_button {
   color:#FFFFFF;
@@ -120,7 +124,7 @@
 }
 .horizontal_line {
 }
-.shape {
+.shape1 {
 }
 .connector1 {
 }
